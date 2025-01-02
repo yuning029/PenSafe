@@ -19,7 +19,7 @@
 确保你已经安装了Go环境，使用以下命令编译代码：
 
 ```
-go build PenSafe.go
+go build -o PenSafe.exe main.go
 ```
 
 ### 2. 使用命令行工具
