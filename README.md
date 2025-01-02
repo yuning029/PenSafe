@@ -23,7 +23,7 @@ go build -o PenSafe.exe main.go
 ```
 
 ### 2. 使用命令行工具
-
+![image](https://github.com/user-attachments/assets/512ab4e3-eb7b-4676-8858-d7d9dd6624d3)
 #### 查看帮助信息
 
 ```
