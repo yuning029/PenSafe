@@ -103,6 +103,8 @@ PenSafe.exe -t urls.txt
 - 扫描工具执行时可能对目标网站造成一定的负担，请确保你有合法权限进行扫描。
 - 该工具适用于渗透测试、漏洞扫描等目的，但不用于恶意攻击。
 
+  ![Star History Chart](https://star-history.com/#yuning029/PenSafe&Date)
+  
 ## 参考链接：
 
 https://github.com/linshaoSec/WaterExp
